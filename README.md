@@ -22,10 +22,14 @@ Examined the effectiveness of lockdown measures across different countries and r
 Applied predictive modeling techniques to forecast future Covid-19 cases based on current data and trends, helping policymakers plan ahead.
 # Technologies Used
 Python (Pandas, NumPy, Matplotlib)
+
 Data Cleaning and Manipulation (Pandas)
+
 Data Visualization (Matplotlib)
+
 Statistical Analysis
 Machine Learning (for forecasting)
+
 Getting Started
 To get started with this project on your local machine:
 
